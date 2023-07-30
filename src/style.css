@@ -1,0 +1,481 @@
+@media only screen and (min-width: 768px) {
+.pad-l-f{
+padding: 0px 5% 0px 5%;
+}
+.inner_padding{
+    padding: 0% 5%;
+}
+
+.card-body-mod{
+    background-color: #e2e2e2;
+    padding: 20px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.width-contain{
+width: 200px !important;
+
+}
+
+.contact_stk{
+display: none;
+
+}
+
+.con_box{
+
+    display: none;
+}
+
+.text-dis-dek{
+
+    display: none;
+}
+
+.nav_img{
+display: none;
+}
+
+.mobile-header{
+display: none;
+}
+
+
+
+
+.content_img3{
+
+    height: 550px;
+    width: 100%;
+}
+
+.banner_2{
+
+    background-image: url('./img/repaireServiceimg/homekitchen.jpg');
+    height: 500px;
+    width: 100%;
+    background-size: contain;
+
+}
+
+.content_head_text{
+    color: #6469ad;
+    font-size: 22px;
+    font-weight: 600;
+
+}
+
+.content_text{
+    font-size: 15px;
+    font-weight: 500;
+
+}
+
+
+.sub_content{
+
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.head_text{
+    text-align: center;
+    color: #0410a7;
+    font-size: 30px;
+}
+
+.oneLineform{
+    border: none;
+    border-radius: 5px;
+    padding: 8px;
+    width: 200px;
+    margin: 0% 2px;
+}
+
+.content_img{
+height: 400px;
+width: 100%;
+
+}
+
+.content_img{
+    height: 400px;
+    width: 100%;
+    
+    }
+
+.mod_option-s{
+    width: 200px;
+    padding: 8px;
+    margin: 0px 2px;
+
+}
+
+.forminline{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-mod{
+    border: none;
+    width: 130px;
+    line-height: 2;
+    border-radius: 5px;
+    background-color: #f7b12b;
+    color: white;
+    font-size: 18px;
+    margin-left: 5px;
+}
+
+.card-white-theme{
+
+
+}
+
+}
+
+
+@media only screen and (max-width: 600px) {
+.pad-l-f{
+
+    padding: 0px 5% 0px 5%;
+
+}
+
+.contact_stk{
+    /* position: fixed;
+    height: 100vh;
+    width: 100%; */
+    
+    }
+    
+    .con_box{
+        position: fixed;
+        bottom: 0%;
+        left: 50%;
+        transform: translateX(-50%);
+        background-color: #f7b12b;
+        padding: 3%;
+        font-weight: 500;
+        font-size: 15px;
+        color: white;
+        border-radius: 5px;
+    }
+
+.bg-banner_1{
+display: none;
+}
+
+.card-body-mod{
+ 
+    background-color: #e7e7e7;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.mobile-header{
+    display: flex;
+    position: sticky;
+    width: 100%;
+    background-color: #f5f5f5;
+    box-shadow: 1px 6px 20px 1px #5f5f5f;
+top: 0%;    
+}
+
+    .mobile-header h1{
+        font-size: 15px;
+        margin: 0px;
+        padding: 4% 0px 4% 20px;
+
+    }
+
+
+.content_img3{
+height: 500px;
+width: 100%;
+    
+}
+
+.nav_img{
+height: 50px;
+width: 50px;
+
+}
+
+.banner_2{
+    background-image: url('./img/repaireServiceimg/homekitchen.jpg');
+    height: 145px;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.content_head_text{
+    color: #6469ad;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.content_text{
+    font-size: 15px;
+    font-weight: 450;
+
+}
+
+.sub_content{
+    font-size: 15px;
+    font-weight: 600;
+
+}
+
+.head_text{
+    text-align: center;
+    color: #0410a7;
+    font-size: 18px;
+}
+.inner_padding{
+    /* padding: 0% ; */
+
+}
+
+.content_img{
+    height: 250;
+    width: 100%;
+
+}
+
+.mod_option-s{
+    width: 90%;
+    padding: 10px;
+    margin: 0px 5%;
+
+}
+
+.forminline{
+
+    display: block;
+}
+
+.oneLineform{
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    width: 90%;
+    margin: 10px 5%;
+}
+
+.btn-mod{
+    border: none;
+    width: 90%;
+    line-height: 2;
+    border-radius: 5px;
+    background-color: #f7b12b;
+    color: white;
+    font-size: 20px;
+    margin: 20px 20px 5px 15px;
+
+}
+
+.card-white-theme{
+
+
+}
+
+}
+
+
+.bg-banner_1{
+background-image: url(./img/bg-wrap.jpg);
+background-size: cover;
+    width: 100%;
+
+
+}
+.remove_margin{
+margin: 0px;
+
+}
+
+
+
+.Book_service{
+    background-color: #6369b5;
+    padding: 2% 0% 2% 0%;
+    /* border-radius: 0px 0px 10px 10px; */
+}
+
+
+
+.mod_option-s{
+    border: none;
+    border-radius: 5px;
+    /* width: 100%; */
+}
+
+
+
+.color-theme_yellow{
+color: #f7b12b;
+font-size: 20px;
+font-weight: 400;
+
+}
+
+.title_section{
+    color: white;
+    font-weight: 400;
+    font-size: 30px;
+
+
+}
+
+.color-blue{
+
+color: #4e549e;
+}
+
+.color-blue_light{
+    color: #6469ad;
+
+}
+
+.underline{
+height: 5px;
+width: 200px;
+background-color: #f7b12b;
+
+}
+
+.serv_img{
+    height: 250px;
+    width: 100%;
+    border-radius: 0px 0px 15px 15px;
+
+}
+
+.serv_img2{
+    height: 250px;
+    width: 100%;
+    border-radius:10px;
+
+}
+
+.service_card{
+    background-color: #6369b5;
+    border-radius: 15px;
+    box-shadow: 5px 6px 0px 1px #e1e1e1;
+
+}
+
+.text_card{
+    text-align: center;
+    color: white;
+    padding: 15px 0px;
+}
+
+.banner-bg-lt-gray{
+background-color: rgb(249 249 249);
+
+}
+
+.content_img{
+
+    border-radius: 20px;
+}
+
+.bg-lightgray{
+
+    background-color: #fafbfd;
+}
+
+.brand_service{
+background-color: #bdd0fb;
+
+}
+
+.card-white-theme{
+
+    background-color: white;
+    border-radius: 10px;
+    padding: 1%;
+    height: 490px;
+}
+
+.content-text_head{
+    color: #6369b5;
+    font-weight: 640;
+    margin-left: 5px;
+    font-size: 19px;
+}
+
+.list-content-text{
+
+list-style: auto;
+font-size: 14px;
+margin-bottom: 10px;
+}
+
+.bg-gray{
+
+    background-color: rgb(214, 214, 214);
+}
+
+.margin-0{
+
+    margin: 0px !important;
+}
+
+.footer-bg{
+
+    background-color: #6369b5;
+    color: white;
+    padding: 2% 0px
+}
+
+.add-padding{
+    padding: 2% 0px
+
+}
+
+
+.add-padding{
+
+    padding: 12px 10px 12px 10px;
+}
+
+.tag-black-holder{
+
+    color: black;
+    font-weight: 500;
+}
+
+.text-weight-500{
+    font-weight: 500;
+}
+
+.text-decor{
+    text-decoration: none !important;
+color: black;
+
+}
+
+/* Metrial Icons */
+
+.send_icon{
+
+    font-size: 20px !important;
+    margin-bottom: 4px;
+}
+
+
+.theme_default-mod{
+
+    border:1px solid #f7b12b !important ;
+     padding:5px  !important;
+     font-size:40px !important;
+     border-radius:50px !important;
+}
